@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  glpowercalculationapi:
+    image: glpowercalculationapi
+    build:
+      context: .
+      dockerfile: GLPowerCalculationApi\Dockerfile

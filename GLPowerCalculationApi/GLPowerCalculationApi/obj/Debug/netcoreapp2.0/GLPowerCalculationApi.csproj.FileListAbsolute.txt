@@ -1,0 +1,11 @@
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\bin\Debug\netcoreapp2.0\GLPowerCalculationApi.deps.json
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\bin\Debug\netcoreapp2.0\GLPowerCalculationApi.runtimeconfig.json
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\bin\Debug\netcoreapp2.0\GLPowerCalculationApi.runtimeconfig.dev.json
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\bin\Debug\netcoreapp2.0\GLPowerCalculationApi.dll
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\bin\Debug\netcoreapp2.0\GLPowerCalculationApi.pdb
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\obj\Debug\netcoreapp2.0\GLPowerCalculationApi.csprojResolveAssemblyReference.cache
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\obj\Debug\netcoreapp2.0\GLPowerCalculationApi.csproj.CoreCompileInputs.cache
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\obj\Debug\netcoreapp2.0\GLPowerCalculationApi.AssemblyInfoInputs.cache
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\obj\Debug\netcoreapp2.0\GLPowerCalculationApi.AssemblyInfo.cs
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\obj\Debug\netcoreapp2.0\GLPowerCalculationApi.dll
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\GLPowerCalculationApi\obj\Debug\netcoreapp2.0\GLPowerCalculationApi.pdb

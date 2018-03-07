@@ -1,0 +1,1 @@
+C:\Users\bdnsys\source\repos\GLPowerCalculationApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

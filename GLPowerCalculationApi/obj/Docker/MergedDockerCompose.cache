@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  glpowercalculationapi:
+    build:
+      context: C:\Users\bdnsys\source\repos\GLPowerCalculationApi
+      dockerfile: GLPowerCalculationApi\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: glpowercalculationapi
+    ports:
+    - 80/tcp
+version: '3.0'
